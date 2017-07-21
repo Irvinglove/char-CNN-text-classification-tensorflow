@@ -1,5 +1,7 @@
 # char-CNN-text-classification-tensorflow
 
+## Here is an article explaining this code ##
+
 ## Reqirement ##
 - Python 2.7.6
 - Numpy 1.13.1
