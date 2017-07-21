@@ -1,6 +1,6 @@
 # char-CNN-text-classification-tensorflow
 
-## Here is an article explaining this code ##
+## [Here is an article explaining this code](http://blog.csdn.net/Irving_zhang/article/details/75634108) ##
 
 ## Reqirement ##
 - Python 2.7.6
